@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Prashanta Bastola
+- 👀 I’m interested in Chicks
+- 🌱 I’m currently learning Java
+- 📫 How to reach me prashantbastola19@gmail.com
